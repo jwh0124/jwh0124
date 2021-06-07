@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I`m Circle ! 👋 #
+
+![Circle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwh0124&show_icons=true&theme=radical)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwh0124&layout=compact)](https://github.com/jwh0124/github-readme-stats) -->
 
 <!--
 **jwh0124/jwh0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
