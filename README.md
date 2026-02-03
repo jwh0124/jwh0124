@@ -40,16 +40,4 @@
 
 </div>
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CircleJung&show_icons=true&theme=default)
-
-</div>
-
 ---
-
-<div align="center">
-
-_천천히 가도, 기록은 남기는 개발자_
-
-</div>
